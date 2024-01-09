@@ -6,3 +6,5 @@
 * Graph which are used
 * Workdone
 * Conclusion
+## Overview
+The Crime Data Analysis Project is an exploratory data analysis (EDA) initiative aimed at gaining insights into criminal activities in a specific location over a defined period. By leveraging statistical and visual analysis techniques, the project aims to uncover patterns, trends, and correlations within the crime data.
